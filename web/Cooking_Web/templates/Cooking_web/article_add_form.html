@@ -1,0 +1,30 @@
+{% extends 'base_site.html' %}
+
+{% block main %}
+    <div class="d-flex justify-content-center">
+        <div class="card col-8 mb-4 mt-4">
+            <div class="card-body">
+                <h2 class="text-center", style="font-weight: 900">
+                    {% if 'update' in request.path %}    
+                        Изменение статьи
+                    {% else %}
+                        Добавление статьи
+                    {% endif %}
+                </h2>
+                <form action="" method="post" enctype="multipart/form-data">
+                    <!--  Fields for filling-->
+                    {% csrf_token %}
+                    {{ form.as_p }}
+                    <button class="btn btn-dark" type="submit">
+                        {% if 'update' in request.path %}    
+                            Изменить статью
+                        {% else %}
+                            Добавить статью
+                        {% endif %}
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div><div style="margin-top: 100px;"></div></div>
+{% endblock main %}
