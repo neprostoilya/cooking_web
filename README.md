@@ -1,8 +1,11 @@
-Сайт Рецептов
+Site Cooking Recipes
 ==================
-
-Создан на языке <b>Python</b> \
-И с использованием библеотеки <b>Django</b>
+<div id="badges">
+      <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white"/>
+</div>
+Создан на языке <b>Python</b> <br />
+И с использованием библиотеки <b>Django</b>
 
 Функционал:
 ------------------
