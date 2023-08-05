@@ -1,17 +1,24 @@
 Site Cooking Recipes
 ==================
-<div id="badges">
+<div id="icons">
       <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white"/>
 </div>
+
+-----
+
 Создан на языке <b>Python</b> <br />
 И с использованием библиотеки <b>Django</b>
 
 Функционал:
 ------------------
+- [x] Админка
+- [x] Регистрация и Авторизация
+- [x] База Данных
+- [ ] Спам рассылка
 
-
-
+Страницы сайта:
+------------------
       Главная страница
 
 ![2023-08-01_02-08-27](https://github.com/neprostoilya/cooking_web/assets/125191093/c5fb1c18-5049-4619-95e3-6678881e32a7)
