@@ -30,7 +30,7 @@ Site Cooking Recipes
 ![2023-08-01_02-11-51](https://github.com/neprostoilya/cooking_web/assets/125191093/f11046bd-d464-48fc-bf38-1d9726bcda85)
 
   
-      Внутри рецепта
+      Страница статьи
 
 ![2023-08-01_01-43-26](https://github.com/neprostoilya/cooking_web/assets/125191093/edb5c0f9-8725-45db-b44a-3238c40c5787)
 
