@@ -3,6 +3,7 @@ Site Cooking Recipes
 <div id="icons">
       <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-red?style=for-the-badge&logo=SQLite&logoColor=white"/>
 </div>
 
 -----
